@@ -1,0 +1,1 @@
+ALTER TABLE interventions ADD COLUMN IF NOT EXISTS demandeur_telephone TEXT;
